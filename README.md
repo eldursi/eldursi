@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
-<h3 align="center">A senior full stack developer from the UK</h3>
+<h3 align="center">A lead software engineer from the UK</h3>
 
-- 🌱 I’m currently learning **.Net Core 6.0, Blazor and Tailwind**
+- 🌱 I’m currently learning **.Net Core 7.0, Blazor and Tailwind**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **React, C#, .Net Core 3.1 and Typescript**
+- 💬 Ask me about **React, C#, .Net and Typescript**
 
 - 📫 How to reach me **https://hiba-eldursi.com/**
 
